@@ -1,0 +1,11 @@
+== README
+
+refer
+
+  # Mongoid by default stores documents in a collection that is the pluralized form of the class name
+
+
+https://gist.github.com/imnithin/a921e0f3dceaed4368e1
+http://www.slideshare.net/rfischer20/mongodb-and-ruby-on-rails
+https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#ruby-mongoid-tutorial
+https://docs.mongodb.org/ecosystem/tutorial/model-data-for-ruby-on-rails/
