@@ -1,6 +1,6 @@
 == README
 
-reference
+# install mongodb - follow: https://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
 
 # Mongoid by default stores documents in a collection that is the pluralized form of the class name
 

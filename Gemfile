@@ -43,3 +43,4 @@ group :development, :test do
 end
 
 gem 'mongoid', '~> 5.0.0'
+gem 'therubyracer'
