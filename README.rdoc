@@ -2,8 +2,9 @@
 
 reference
 
-  # Mongoid by default stores documents in a collection that is the pluralized form of the class name
+# Mongoid by default stores documents in a collection that is the pluralized form of the class name
 
+== Links
 
   https://gist.github.com/imnithin/a921e0f3dceaed4368e1
 
