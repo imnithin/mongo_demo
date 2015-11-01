@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @post.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @post.description %>
+</p>
+
+<%= "Comments" %>
+<br/>
+
+<% @comments.each do |comment| %>
+<%= comment.title %>
+<% end %>
+
+
+<%= form_for [@post, Comment.new] do |f| %>
+  <p><%= f.label :title %> <%= f.text_field :title %></p>
+  <p><%= f.submit %></p>
+<% end %>
+
+<%= link_to 'Edit', edit_post_path(@post) %> |
+<%= link_to 'Back', posts_path %>

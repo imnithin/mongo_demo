@@ -1,8 +1,7 @@
-class Team
+class User
   include Mongoid::Document
   field :name, type: String
-  field :city, type: String
   field :location, type: String
 
-  validates :name, :city, presence: true
+  has_many :roles, dependent: :destroy
 end

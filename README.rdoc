@@ -13,3 +13,10 @@
   https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#ruby-mongoid-tutorial
 
   https://docs.mongodb.org/ecosystem/tutorial/model-data-for-ruby-on-rails/
+
+  http://mongoid.github.io/en/mongoid/index.html
+
+== Concept
+
+1 post can have many comments (embedds)
+1 user can have many roles (has_many)
