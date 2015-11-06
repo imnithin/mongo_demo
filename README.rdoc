@@ -13,3 +13,5 @@
   https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#ruby-mongoid-tutorial
 
   https://docs.mongodb.org/ecosystem/tutorial/model-data-for-ruby-on-rails/
+
+  http://campus.codeschool.com/courses/the-magical-marvels-of-mongodb
