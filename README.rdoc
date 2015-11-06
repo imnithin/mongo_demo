@@ -18,7 +18,7 @@
 
   http://mongoid.github.io/en/mongoid/index.html
 
-== Concept
+== Demonstrated
 
 1 post can have many comments (embedds)
 
