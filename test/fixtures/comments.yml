@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  city: MyString
-  location: 
+  title: MyString
+  likes: 
+  post_id: 
 
 two:
-  name: MyString
-  city: MyString
-  location: 
+  title: MyString
+  likes: 
+  post_id: 
