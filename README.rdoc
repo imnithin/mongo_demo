@@ -21,5 +21,6 @@
 == Concept
 
 1 post can have many comments (embedds)
+
 1 user can have many roles (has_many)
 
