@@ -4,9 +4,17 @@
 
 # Mongoid by default stores documents in a collection that is the pluralized form of the class name
 
-== Links
+== References
 
   https://gist.github.com/imnithin/a921e0f3dceaed4368e1
+  
+  https://en.wikipedia.org/wiki/NoSQL
+  
+  https://www.mongodb.com/nosql-explained check the differences here
+  
+  http://www.couchbase.com/nosql-resources/what-is-no-sql
+  
+  https://docs.google.com/presentation/d/12b7rAbk_ZCJrET_reRTG1bSEwFLlTX1davhzo_0Uxcg/edit?usp=sharing
 
   http://www.slideshare.net/rfischer20/mongodb-and-ruby-on-rails
 
@@ -17,6 +25,7 @@
   http://campus.codeschool.com/courses/the-magical-marvels-of-mongodb
 
   http://mongoid.github.io/en/mongoid/index.html
+
 
 == Demonstrated
 
