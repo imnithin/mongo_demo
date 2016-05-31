@@ -33,3 +33,8 @@
 
 1 user can have many roles (has_many)
 
+----------------------------------------------------------------------------------------------------------------
+
+== Branch: gossip-girl
+
+rackup private_pub.ru -s thin -E production

@@ -44,3 +44,6 @@ end
 
 gem 'mongoid', '~> 5.0.0'
 gem 'therubyracer'
+
+gem "private_pub"
+gem 'thin'
